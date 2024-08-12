@@ -1,3 +1,3 @@
 # Web Crawling
 
-🤖 About Studying web crawling
+🤖 About Studying Web Crawling
